@@ -1,0 +1,31 @@
+﻿@model Category
+@{
+    Layout = "_AdminLayout";
+}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-xl-5 col-lg-6 col-md-8 border mt-3 pt-3 rounded mx-3">
+            <div class="form-group text-small">
+                <small><a href="/Category/Index">Return</a></small>
+            </div>
+            <h4 class="text-success">Edit Category</h4>
+            <form asp-action="Edit" class="mt-3" method="post">
+                @Html.AntiForgeryToken()
+                <input type="hidden" asp-for="CategoryId" />
+                <div class="form-group">
+                    <label asp-for="CategoryName">Category Name</label>
+                    <input asp-for="CategoryName" required class="form-control" type="text" placeholder="Enter Category Name">
+                </div>
+                @if (TempData["msg"] != null)
+                {
+                    <div class="form-group">
+                        <span class="text-info">@TempData["msg"]</span>
+                    </div>
+                }
+                <div class="form-group">
+                    <button type="submit" class="btn btn-success mr-2">Edit</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

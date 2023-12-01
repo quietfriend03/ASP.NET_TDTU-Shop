@@ -1,0 +1,1668 @@
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.RazorAssemblyInfo.cache
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.RazorAssemblyInfo.cs
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.staticwebassets.runtime.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.exe
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.deps.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.runtimeconfig.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.pdb
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.TdtuProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.build.TdtuProject.props
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TdtuProject.props
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TdtuProject.props
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\bundle\TdtuProject.styles.css
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\projectbundle\TdtuProject.bundle.scp.css
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.CopyComplete
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\refint\TdtuProject.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.pdb
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\ref\TdtuProject.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\mscorlib.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\netstandard.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Console.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Memory.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Web.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Windows.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\PagedList.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\PagedList.Mvc.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\appsettings.json
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.staticwebassets.runtime.json
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.exe
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.deps.json
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.runtimeconfig.json
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.pdb
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\mscorlib.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\netstandard.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Console.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Memory.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Web.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Windows.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\EntityFramework.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Humanizer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\MessagePack.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\PagedList.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\PagedList.Mvc.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\X.PagedList.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP project\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.AssemblyReference.cache
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.AssemblyInfoInputs.cache
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.AssemblyInfo.cs
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.CoreCompileInputs.cache
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.RazorAssemblyInfo.cache
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.RazorAssemblyInfo.cs
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.TdtuProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.build.TdtuProject.props
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TdtuProject.props
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TdtuProject.props
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\bundle\TdtuProject.styles.css
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\projectbundle\TdtuProject.bundle.scp.css
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.CopyComplete
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.dll
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\refint\TdtuProject.dll
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.pdb
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.genruntimeconfig.cache
+C:\ASP project\TdtuProject\TdtuProject\obj\Debug\net6.0\ref\TdtuProject.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\appsettings.Development.json
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\appsettings.json
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.staticwebassets.runtime.json
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.exe
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.deps.json
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.runtimeconfig.json
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\TdtuProject.pdb
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\mscorlib.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\netstandard.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.AppContext.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Buffers.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Configuration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Console.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Data.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Drawing.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Memory.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Http.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Mail.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Ping.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Requests.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Security.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Numerics.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ObjectModel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Claims.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Principal.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Transactions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.ValueTuple.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Web.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Windows.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\refs\WindowsBase.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\EntityFramework.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Humanizer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\MessagePack.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\PagedList.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\PagedList.Mvc.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\X.PagedList.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\New folder\TdtuProject\TdtuProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.AssemblyReference.cache
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.AssemblyInfoInputs.cache
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.AssemblyInfo.cs
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.CoreCompileInputs.cache
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.MvcApplicationPartsAssemblyInfo.cs
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.MvcApplicationPartsAssemblyInfo.cache
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.RazorAssemblyInfo.cache
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.RazorAssemblyInfo.cs
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.TdtuProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.build.TdtuProject.props
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TdtuProject.props
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TdtuProject.props
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\Views\Shared\_AdminLayout.cshtml.rz.scp.css
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\bundle\TdtuProject.styles.css
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\scopedcss\projectbundle\TdtuProject.bundle.scp.css
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.csproj.CopyComplete
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.dll
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\refint\TdtuProject.dll
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.pdb
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\TdtuProject.genruntimeconfig.cache
+C:\New folder\TdtuProject\TdtuProject\obj\Debug\net6.0\ref\TdtuProject.dll

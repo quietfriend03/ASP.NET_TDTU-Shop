@@ -1,0 +1,63 @@
+﻿@model Cart
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-8">
+            <h1>Shopping Cart</h1>
+
+            @if (Model != null && Model.Orders.Any())
+            {
+                <div class="mb-4">
+                    <p class="lead">Date Created: @Model.DateCreated.ToString("MMMM dd, yyyy HH:mm tt")</p>
+                    <p class="lead">Total Price: @Model.Orders.Sum(order => order.TotalPrice()).ToString("C")</p>
+                </div>
+
+                <table class="table table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Product Name</th>
+                            <th>Quantity</th>
+                            <th>Total Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model.Orders)
+                        {
+                            <tr>
+                                <td>@order.Product.ProductName</td>
+                                <td>@order.Quantity</td>
+                                <td class="total-price">@order.TotalPrice().ToString("C")</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <p>Your cart is empty.</p>
+            }
+        </div>
+
+        <div class="col-md-4">
+            <h2>Checkout</h2>
+            <form asp-controller="Cart" asp-action="Checkout" method="post">
+
+                <!-- User Information Fields -->
+                <div class="mb-3">
+                    <label for="Name" class="form-label">Name</label>
+                    <input type="text" class="form-control" id="Name" name="Name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="Address" class="form-label">Address</label>
+                    <textarea class="form-control" id="Address" name="Address" rows="3" required></textarea>
+                </div>
+
+                <!-- Hidden Fields for Cart Information -->
+                <input type="hidden" name="CartDateCreated" value="@Model.DateCreated.ToString("yyyy-MM-ddTHH:mm:ss")">
+                <input type="hidden" name="CartTotalPrice" value="@Model.Orders.Sum(order => order.TotalPrice())">
+
+                <button type="submit" class="btn btn-primary">Check out</button>
+            </form>
+        </div>
+    </div>
+</div>

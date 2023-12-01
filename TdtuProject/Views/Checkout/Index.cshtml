@@ -1,0 +1,28 @@
+﻿@model IEnumerable<CheckoutViewModel>
+@{
+    Layout = "_AdminLayout";
+}
+<div class="container my-3">
+    <h4 class="my-1 text-primary text-center text-uppercase">List Of Orders</h4>
+    <table class="table table-striped border">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Order Date</th>
+                <th>Total Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.Name</td>
+                    <td>@order.Address</td>
+                    <td>@order.DateCreated</td>
+                    <td>@order.TotalPrice.ToString("C")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Product>
+@{
+    Layout = "_AdminLayout";
+}
+
+<div class="container my-3">
+    <h4 class="my-1 text-primary text-center text-uppercase">List Of Products</h4>
+    <a class="btn btn-success btn-sm my-4" asp-action="Create">Add Product</a>
+    <table class="table table-striped border">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Category Name</th>
+                <th>Price</th>
+                <th>Photo</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td class="align-middle">@product.ProductId</td>
+                    <td class="align-middle">@product.ProductName</td>
+                    <td class="align-middle">@product.Category.CategoryName</td>
+                    <td class="align-middle">@product.ProductPrice.ToString("C")</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(product.FileName))
+                        {
+                            <img src="@Url.Content("../uploads/"+product.FileName)" alt="Product Photo" width="50" height="50" />
+                        }
+                    </td>
+                    <td class="align-middle">
+                        <a asp-action="Edit" asp-route-id="@product.ProductId" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@product.ProductId" method="post" class="d-inline">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" value="Delete" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

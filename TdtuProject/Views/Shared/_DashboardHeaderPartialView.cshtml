@@ -1,0 +1,50 @@
+﻿<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container px-4 px-lg-5">
+        <a style="font-family: 'Playfair Display', serif; font-size: 2em;" >
+            <p style="background: linear-gradient(140deg, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+                    -webkit-background-clip: text;
+                    margin-bottom: 0;
+                    -webkit-text-fill-color: transparent;"
+            >
+                Pineapple Store
+            </p>
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" 
+                aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+        <div class="collapse navbar-collapse d-flex justify-content-end" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4 btn-sm ml-30">
+                <li class="nav-item pr-2"><a class="nav-link active" aria-current="page" href="/Dashboard/Display">Home</a></li>
+                <li class="nav-item pr-2"><a class="nav-link active" aria-current="page" href="/Dashboard/AllProduct">Product</a></li>
+                <li class="nav-item dropdown no-arrow pr-2">
+                    <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
+                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="fas fa-solid fa-user"></i>
+                    </a>
+                    <!-- Dropdown - User Information -->
+                    <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
+                         aria-labelledby="userDropdown">
+                        @if (User.IsInRole("admin"))
+                        {
+                            <a class="dropdown-item" href="/Admin/Display">
+                                <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                                Admin Page
+                            </a>
+                        }
+                        <a class="dropdown-item" th:href="/UserAuthentication/Logout" data-toggle="modal" data-target="#logoutModal">
+                            <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
+                            Logout
+                        </a>
+                    </div>
+                </li>
+            </ul>
+            <form class="d-flex" asp-controller="Cart" asp-action="Index" method="get">
+                <button class="btn btn-outline-dark btn-sm ml-3" type="submit">
+                    <i class="bi-cart-fill me-1"></i>
+                    Cart
+                </button>
+            </form>
+        </div>
+    </div>
+</nav>

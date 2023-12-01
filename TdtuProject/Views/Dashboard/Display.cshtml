@@ -1,0 +1,65 @@
+﻿@{
+    var categories = TempData["Categories"] as IEnumerable<Category>;
+    var productsByCategory = TempData["ProductByCategory"] as Dictionary<Category, IEnumerable<Product>>;
+}
+@await Html.PartialAsync("_DashboardCarouselPartialView.cshtml")
+<style>
+    .card:hover {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        transform: scale(1.05);
+        transition: box-shadow 0.3s ease, transform 0.3s ease;
+    }
+
+    .card {
+        cursor: pointer;
+    }
+
+       
+    .card a {
+        text-decoration: none;
+    }
+
+    .card-img-top {
+        height: 240px; 
+        object-fit: cover; 
+        object-position: center top;
+    }
+</style>
+@foreach (var category in categories)
+{
+    @if (productsByCategory[category]?.Any() == true)
+    {
+        <div class="container px-4 px-lg-5 mt-5">
+            <div class="row mb-4">
+                <div class="col d-flex justify-content-center">
+                    <h2 class="fw-bolder">@category.CategoryName</h2>
+                </div>
+            </div>
+            <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+                @foreach (var product in productsByCategory[category])
+                {
+                    <div class="col mb-5">
+                        <a asp-action="Detail" asp-route-id="@product.ProductId">
+                            <div class="card h-100">
+                                <!-- Product image-->
+                                <img src="@Url.Content("../uploads/"+product.FileName)" alt="Product Photo" class="card-img-top" />
+                                <!-- Product details-->
+                                <div class="card-body p-4">
+                                    <div class="text-center">
+                                        <!-- Product name-->
+                                        <h5 class="fw-bolder">@product.ProductName</h5>
+                                        <!-- Product price-->
+                                        Price: @product.ProductPrice.ToString("C")
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+}
+<div class="col text-end d-flex justify-content-center">
+    <a href="/Dashboard/AllProduct" class="btn btn-outline-dark ">View All</a>
+</div>

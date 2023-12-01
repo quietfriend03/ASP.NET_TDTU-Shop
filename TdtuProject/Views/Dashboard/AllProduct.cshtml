@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Product>
+<style>
+    .card:hover {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        transform: scale(1.05);
+        transition: box-shadow 0.3s ease, transform 0.3s ease;
+    }
+
+    .card {
+        cursor: pointer;
+    }
+
+
+        .card a {
+            text-decoration: none;
+        }
+
+    .card-img-top {
+        height: 240px;
+        object-fit: cover;
+        object-position: center top;
+    }
+</style>
+<div class="container mt-5">
+    <h1>Product List</h1>
+
+    <!-- Filter form -->
+    <form asp-action="AllProduct" method="get" class="form-inline mb-4">
+        <div class="form-group mr-2">
+            <label for="categoryId">Filter by Category:</label>
+            <select class="form-control ml-2" asp-items="@ViewBag.Categories" name="categoryId">
+                <option value="">All Categories</option>
+            </select>
+        </div>
+        <div class="form-group mr-2">
+            <label for="sortBy">Sort by Price:</label>
+            <select class="form-control ml-2" name="sortBy">
+                <option value="asc">Price Low to High</option>
+                <option value="desc">Price High to Low</option>
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Apply Filters</button>
+    </form>
+
+    <!-- Product list -->
+    @if (Model != null && Model.Any())
+    {
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            @foreach (var product in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card h-100">
+                        <img src="@Url.Content("~/uploads/" + product.FileName)" alt="Product Photo" class="card-img-top" />
+                        <div class="card-body p-4">
+                            <h5 class="card-title">@product.ProductName</h5>
+                            <p class="card-text">
+                                Price: @product.ProductPrice.ToString("C")
+                            </p>
+                            <!-- Add other product details as needed -->
+                            <a asp-action="Detail" asp-route-id="@product.ProductId" class="btn btn-primary">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+    else
+    {
+        <div class="text-center my-5">
+            <img src="@Url.Content("~/uploads/noproduct.jpg")" alt="Empty Results Image" class="img-fluid" style="max-width: 300px;" />
+            <p class="lead mt-3">Oops! No products match the specified filters.</p>
+        </div>
+    }
+</div>

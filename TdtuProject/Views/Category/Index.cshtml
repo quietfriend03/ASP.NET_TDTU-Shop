@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Category>
+@{
+	Layout = "_AdminLayout";
+}
+<div class="container my-3">
+    <h4 class="my-1 text-primary text-center text-uppercase">List Of Category</h4>
+    <a class="btn btn-success btn-sm my-4" asp-action="Create">Add Category</a>
+    <table class="table table-striped border">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.CategoryId</td>
+                    <td>@category.CategoryName</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@category.CategoryId" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@category.CategoryId" method="post" class="d-inline">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" value="Delete" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
