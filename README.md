@@ -11,5 +11,4 @@
   - Bước 4: Để tạo tài khoản admin thì hãy truy cập vào đường dẫn sau khi đã chạy ững dụng
     - /UserAuthentication/Reg
 - Sau khi hoàn thành các bước trên thì dự án bạn đã hoàn thành
-Markup : ```javascript
-         ```
+
